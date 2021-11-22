@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! 👋 I'm Ilham.
 
-<!--
-**ilhmdhn/ilhmdhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning about kotlin for android development
+- 👯 I’m looking job for android developer
+- 📫 How to reach me: ilhamdohaan@gmail.com
 
-Here are some ideas to get you started:
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ilhmdhn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilhmdhn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilhmdhn&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me on
+- <a href="https://linkedin.com/in/ilhmdhn/">LinkedIn</a>
